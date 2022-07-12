@@ -1,1 +1,27 @@
 /* Copy and paste your CSS from CodePen into here */
+.p-text {
+    font-family: Courier New, "serif";
+  }
+  .img-caption {
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+  }
+  .caption-text {
+    font-weight: bold;
+  text-align: center;
+  font-style: italic;
+  }
+  .main-text {
+    font-weight: bold;
+    text-align: center;
+    font-family: Gill Sans, "serif"; 
+  background:#D3D3D3;
+  }
+  .img-size {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
